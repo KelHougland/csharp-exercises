@@ -8,14 +8,14 @@ namespace CountingCharacters
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hey, give me some letters to count!");
+            Console.WriteLine("Hey, give me some letters to count! \nType enter 'file' to read from text.txt.");
             string input = Console.ReadLine().ToLower();
             Dictionary<char, int> letters = new Dictionary<char, int>();
             string str_inp;
 
             if (input == "file")
             {
-                str_inp = System.IO.File.ReadAllText(@"C:\Users\knhou\source\repos\csharp-exercises\CountingCharacters\text.txt") ;
+                str_inp = System.IO.File.ReadAllText(@"C:\Users\knhou\Google Drive\lc101\C-SharpProjects\CountingCharacters\text.txt") ;
             }
             else
             {

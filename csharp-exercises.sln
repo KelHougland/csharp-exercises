@@ -16,19 +16,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookDict", "GradebookD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookArray", "GradebookArray\GradebookArray.csproj", "{89051A0E-8D18-48C3-B4E6-D05F62D252CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D2F966D5-16AA-456E-A8EC-7C3FC5C52E0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D2F966D5-16AA-456E-A8EC-7C3FC5C52E0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\InputOutput.csproj", "{F5872C3B-1DBB-4DBA-B82F-8BBCCD80A1A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputOutput", "InputOutput\InputOutput.csproj", "{F5872C3B-1DBB-4DBA-B82F-8BBCCD80A1A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectArea", "RectArea\RectArea.csproj", "{6F89B972-7D94-4470-885D-7F779D9B7C43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectArea", "RectArea\RectArea.csproj", "{6F89B972-7D94-4470-885D-7F779D9B7C43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasMilage", "GasMilage\GasMilage.csproj", "{B7E2DDEB-E233-4DF6-97FC-14935DEE4158}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GasMilage", "GasMilage\GasMilage.csproj", "{B7E2DDEB-E233-4DF6-97FC-14935DEE4158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceString", "AliceString\AliceString.csproj", "{D0C186AA-C3FF-4DBF-A7A6-F9C2730AD581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliceString", "AliceString\AliceString.csproj", "{D0C186AA-C3FF-4DBF-A7A6-F9C2730AD581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{D6418530-C902-4FC1-8F61-A3176D557495}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area", "Area\Area.csproj", "{D6418530-C902-4FC1-8F61-A3176D557495}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingCharacters", "CountingCharacters\CountingCharacters.csproj", "{10EB1F19-99E1-48FA-9836-133FCD0672B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingCharacters", "CountingCharacters\CountingCharacters.csproj", "{10EB1F19-99E1-48FA-9836-133FCD0672B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMVC", "HelloMVC\HelloMVC.csproj", "{36786850-1ACE-4960-9E23-030306244C63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -92,6 +94,10 @@ Global
 		{10EB1F19-99E1-48FA-9836-133FCD0672B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10EB1F19-99E1-48FA-9836-133FCD0672B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10EB1F19-99E1-48FA-9836-133FCD0672B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36786850-1ACE-4960-9E23-030306244C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36786850-1ACE-4960-9E23-030306244C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36786850-1ACE-4960-9E23-030306244C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36786850-1ACE-4960-9E23-030306244C63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
